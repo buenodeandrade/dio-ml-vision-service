@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "9e918bc1-1904-4408-80b9-681988107482",
+  "content-length": "157",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a football game in a stadium",
+    "confidence": 0.7334362268447876
+  },
+  "metadata": {
+    "width": 3648,
+    "height": 2736
+  }
+}
