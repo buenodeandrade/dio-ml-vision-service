@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "34111ba6-5e91-4ddb-947a-8d4eec858d9a",
+  "content-length": "226",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a large tree with lights on it and people skating on ice with Rockefeller Center in the background",
+    "confidence": 0.647756040096283
+  },
+  "metadata": {
+    "width": 2448,
+    "height": 3264
+  }
+}
